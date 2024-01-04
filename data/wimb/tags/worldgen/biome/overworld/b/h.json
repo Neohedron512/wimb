@@ -1,0 +1,10 @@
+{
+    "values": [
+        "minecraft:stony_peaks",
+        "minecraft:river",
+        "minecraft:frozen_river",
+        "minecraft:dripstone_caves",
+        "minecraft:lush_caves",
+        "minecraft:ocean"
+    ]
+}

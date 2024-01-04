@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 22,
+    "description": "WIMB, or What Is My Biome is a datapack utility that allows the user to quickly fetch the biome where a command was executed and store the result in storage."
+  }
+}
