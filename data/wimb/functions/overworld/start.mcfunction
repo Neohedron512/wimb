@@ -1,5 +1,4 @@
-# Main Technique
-# Venn Elimination of possible locations
+execute unless dimension minecraft:overworld run return fail
 execute store success score $a wimb if biome ~ ~ ~ #wimb:overworld/a
 execute store success score $b wimb if biome ~ ~ ~ #wimb:overworld/b
 execute if score $a wimb matches 1 if score $b wimb matches 0 run return run function wimb:overworld/a
