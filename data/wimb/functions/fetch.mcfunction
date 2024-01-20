@@ -1,0 +1,1 @@
+$data modify storage wimb:data biome set from storage wimb:data stock[$(index)]
